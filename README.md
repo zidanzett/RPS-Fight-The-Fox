@@ -1,4 +1,4 @@
-# RPS-Fight-The-Fox
+# Fight The Fox - Rock Paper Scissors
 Featuring a charming brown bird as the main character, the game invites players to engage in thrilling battles against a wily and cunning fox. With intuitive controls and exciting animations, the game is easy to play. Join Brown Bird on an exciting adventure today and see if you have what it takes to emerge victorious over the sly and crafty Fox!
 
 ## Installation
